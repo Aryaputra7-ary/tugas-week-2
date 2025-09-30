@@ -1,0 +1,87 @@
+.fotoku-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-content {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.ig-content {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto-ig {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: inline-block; 
+}
+
+.namaku {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.foto-git {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+}
+
+.git-content {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto-fb {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: inline-block; 
+}
+
+.fb-content {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.yt-content {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto-yt {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: inline-block; 
+}
+
